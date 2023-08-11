@@ -25,7 +25,7 @@
 .nav-link{
     color: rgb(220, 16, 16);
 }.backgrnd{
-    background-image: url('/portimagges/bgimage.jpg');
+    background-image: url('portimagges/bgimage.jpg');
     background-size: cover;
     width:100%;
     height: auto;
